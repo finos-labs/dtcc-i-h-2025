@@ -7,3 +7,4 @@ Each team will be required to submit a GitHub repository with their project. The
 2. Completion of `README.md` details.
     - Project Name
     - Team Information
+3. All the code should be submitted on June 11th before 5.00PM IST
