@@ -3,6 +3,17 @@
 # DTCC AI Hackathon 2025: Empowering India's Innovators
 The purpose of hackathon is to leverage AI and ML Technologies to address critical challenges in the financial markets. The overall goal is to progress industry through Innovation, Networking and by providing effective Solutions.
 
+**Hackathon Key Dates** 
+•	June 6th - Event invites will be sent to participants
+•	June 9th - Hackathon Open
+•	June 9th-11th - Team collaboration and Use Case development
+•	June 12th - Team presentations & demos
+•	June 16th - Winners Announcement
+
+More Info - https://communications.dtcc.com/dtcc-ai-hackathon-registration-17810.html
+
+Commit Early & Commit Often!!!
+
 ## Project Name
 
 
